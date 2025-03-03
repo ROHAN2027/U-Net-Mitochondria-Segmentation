@@ -3,6 +3,7 @@
 
 This project focuses on improving the U-Net model for image segmentation tasks. The implementation is provided in a Jupyter Notebook.
 
+![Mitochondria Segmentation Output](https://github.com/ROHAN2027/U-Net-Mitochondria-Segmentation/raw/main/Screenshot%202025-03-03%20121353.png)
 
 
 ## Files
