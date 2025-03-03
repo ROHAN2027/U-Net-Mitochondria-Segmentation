@@ -1,6 +1,8 @@
 # U-Net Improvement Project
 
 This project focuses on improving the U-Net model for image segmentation tasks. The implementation is provided in a Jupyter Notebook.
+![Alt text](path/to/image.png)
+
 
 ## Files
 
