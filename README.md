@@ -1,7 +1,7 @@
 # U-Net Improvement Project
 
 This project focuses on improving the U-Net model for image segmentation tasks. The implementation is provided in a Jupyter Notebook.
-![Alt text](path/to/image.png)
+![Alt text]([path/to/image.png](https://github.com/ROHAN2027/U-Net-Mitochondria-Segmentation/blob/fca001410e5fc21df45f246b0914855eadf8e0d2/Screenshot%202025-03-03%20121353.png))
 
 
 ## Files
